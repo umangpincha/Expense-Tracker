@@ -10,4 +10,4 @@ Technology Used:
 - JAVASCRIPT
 
 
-Live Demo: [Link](https://palindromee-checker.netlify.app/)
+Live Demo: [Link](https://expense-trackeer.netlify.app/)
